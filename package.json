@@ -1,0 +1,34 @@
+{
+	"author": "Flow Studio",
+	"name": "smart-node-import",
+	"description": "Smart app root require and caching for Node.JS",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/flowstudio/smart-node-import.git"
+	},
+	"keywords": [
+		"require",
+		"root",
+		"cache",
+		"caching"
+	],
+	"contributors": [
+		{
+			"name": "Andrej Adamcik"
+		}
+	],
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/freewil/express-form/raw/master/LICENSE"
+		}
+	]
+}
